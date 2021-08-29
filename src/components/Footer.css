@@ -1,0 +1,16 @@
+.footer .container-center{
+    background-color: #333333;    
+}
+.footer .container-footer {      
+    max-width: 980px;      
+    display: flex;
+    height: 80px;
+    align-items: center; /**/
+    margin: 0 auto;
+}
+.footer .container-footer p{      
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    margin: 0 auto;
+}
